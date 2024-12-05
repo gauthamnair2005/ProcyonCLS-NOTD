@@ -1,0 +1,5 @@
+1. ProcyonCLS AppMarket started accepting apps from developers, for more info, refer to the Developers.md from ProcyonCLS main repo.
+
+2. Developers are requested to develop applications properly, following the guidelines specified in Developers.md file.
+
+3. Developers are requested to implement the updater for their respective apps on their own, and the updates though AppMarket will take some time to be implemented.
