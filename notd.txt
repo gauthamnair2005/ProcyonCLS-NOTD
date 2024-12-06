@@ -2,4 +2,4 @@
 
 2. Developers are requested to develop applications properly, following the guidelines specified in Developers.md file.
 
-3. Developers are requested to implement the updater for their respective apps on their own, and the updates though AppMarket will take some time to be implemented.
+3. Developers are requested to upload a text file (<youAppName.txt>) by forking the ProcyonCLS-App-Updater repository, in order to set up updates for their apps.
