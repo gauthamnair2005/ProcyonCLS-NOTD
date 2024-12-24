@@ -1,5 +1,1 @@
-1. ProcyonCLS AppMarket started accepting apps from developers, for more info, refer to the Developers.md from ProcyonCLS main repo.
-
-2. Developers are requested to develop applications properly, following the guidelines specified in Developers.md file.
-
-3. Developers are requested to upload a text file (<youAppName.txt>) by forking the ProcyonCLS-App-Updater repository, in order to set up updates for their apps.
+ProcyonCLS 2025 exits Developer Preview State and enters Release Preview State.
