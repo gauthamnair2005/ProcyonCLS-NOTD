@@ -1,1 +1,2 @@
-ProcyonCLS 2025 exits Developer Preview State and enters Release Preview State.
+/!\ NOTD is discontinued as ProcyonCLS is out of Developer Preview, any apps using this service must start phasing it out.
+App developers can check on this repository during the developer release phases of ProcyonCLS.
